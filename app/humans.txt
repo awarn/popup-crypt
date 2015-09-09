@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Anton Warnhag -- Front end developer -- awarn, awarnhag, anton w
+
+# THANKS
+
+  
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
